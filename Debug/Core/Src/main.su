@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:5:main	24	static
+../Core/Src/main.c:112:6:GPIO_Init	4	static
+../Core/Src/main.c:129:6:Timer3_PWM_Init	4	static
+../Core/Src/main.c:150:6:Motor_Forward	16	static
+../Core/Src/main.c:157:6:Motor_Reverse	16	static
+../Core/Src/main.c:164:6:Motor_Stop	4	static
+../Core/Src/main.c:171:6:delay	24	static
+../Core/Src/main.c:182:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:5:main	5
+../Core/Src/main.c:112:6:GPIO_Init	1
+../Core/Src/main.c:129:6:Timer3_PWM_Init	1
+../Core/Src/main.c:150:6:Motor_Forward	1
+../Core/Src/main.c:157:6:Motor_Reverse	1
+../Core/Src/main.c:164:6:Motor_Stop	1
+../Core/Src/main.c:171:6:delay	3
+../Core/Src/main.c:182:6:Error_Handler	1
