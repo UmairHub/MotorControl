@@ -1,0 +1,24 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE project metadata (local to each machine)
+.metadata/
+.settings/
+.cproject
+.project
+
+# Object/debug files
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# OS/editor cruft
+.DS_Store
+*.swp
