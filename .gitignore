@@ -2,11 +2,8 @@
 Debug/
 Release/
 
-# STM32CubeIDE project metadata (local to each machine)
+# STM32CubeIDE workspace metadata (local to each machine)
 .metadata/
-.settings/
-.cproject
-.project
 
 # Object/debug files
 *.o
