@@ -32,7 +32,6 @@ Wiring reference and firmware for driving a single DC motor via PWM speed contro
 ## Notes
 
 - Remove the L298N's **ENA jumper cap** if present - it forces the driver to always-full-speed and blocks PWM control on that channel.
-- **PWM configuration**: TIM3, Channel 1. See [Clock Configuration](#clock-configuration) for actual vs. intended frequency.
 - **Direction truth table**:
   | IN1  | IN2  | Result   |
   |------|------|----------|
