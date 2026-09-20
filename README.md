@@ -9,6 +9,10 @@ Wiring reference and firmware for driving a single DC motor via PWM speed contro
 - DC motor
 - 9V battery (motor power) - see [Power Wiring](#power-wiring)
 
+## Wiring Diagram
+
+![Wiring diagram: Nucleo-F446RE, L298N, 9V battery, and DC motor](doc/wiring-diagram.svg)
+
 ## Pin Connections
 
 | L298N Pin | Nucleo Pin | Function                          |
@@ -20,6 +24,8 @@ Wiring reference and firmware for driving a single DC motor via PWM speed contro
 | 12V / VMS | Battery +  | Motor power input (9V battery)     |
 | OUT1      | -          | To DC motor terminal 1             |
 | OUT2      | -          | To DC motor terminal 2             |
+
+
 
 ## Power Wiring
 
