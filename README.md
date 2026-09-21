@@ -13,7 +13,7 @@ Wiring reference and firmware for driving a single DC motor via PWM speed contro
 
 ![Wiring diagram: Nucleo-F446RE, L298N, 9V battery, and DC motor](doc/wiring-diagram.svg)
 
-(doc/wiring_diagram_fritzing.png)
+[Fritzing wiring diagram](doc/wiring_diagram_fritzing.png)
 
 ## Pin Connections
 
