@@ -1,0 +1,4 @@
+1)GPIO
+2)Timers
+3)PWM
+4)L298 motor driver
